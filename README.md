@@ -1,1 +1,1 @@
-# spring-boot-hateoas
+# spring-boot-hateoas-swagger
